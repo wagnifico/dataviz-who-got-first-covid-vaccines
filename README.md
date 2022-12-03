@@ -1,11 +1,8 @@
 Repository of the analysis of the very first recipients of the COVID-19 vaccines by country. Contains the Python codes used for generating the graphs and the databases.
-Complete article in:
-http://wjgsp.com/first-covid-19-vaccines-recipients-by-country
 
+Complete article in: [wjgsp.com/first-covid-19-vaccines-recipients-by-country](http://wjgsp.com/first-covid-19-vaccines-recipients-by-country)
 
 ![Age and occupation of first recipients of COVID-19 vaccines for several countries](http://wjgsp.com/wp-content/uploads/2021/01/graph_receivers_by_occupation_country.png)
-
-
 
 **Data attribution**
 
